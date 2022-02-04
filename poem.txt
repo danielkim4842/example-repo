@@ -5,6 +5,7 @@ blue
 pink
 orange
 yellow
+green
 purple
 white
 black
