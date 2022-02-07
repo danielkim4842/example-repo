@@ -12,3 +12,6 @@ white
 black
 black
 black
+1
+1
+1
